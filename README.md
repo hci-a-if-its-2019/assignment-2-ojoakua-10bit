@@ -72,4 +72,13 @@ We're specifically address this design to mobile users. Overall the we assume th
 
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+
+### InVision Freehand Sketch
+
+Here is the InVision Freehand Sketch version of selected alternative solution.
+
+![invision sketch](img/sketch05.png)
+
+### InVision Prototype Project
+
+The prototype can be accessed [here](https://invis.io/DAR87DP7H8P#/354582252_Screenshot_At_2019-03-27_13-58-14).
