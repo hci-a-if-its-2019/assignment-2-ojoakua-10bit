@@ -81,4 +81,6 @@ Here is the InVision Freehand Sketch version of selected alternative solution.
 
 ### InVision Prototype Project
 
-The prototype can be accessed [here](https://invis.io/DAR87DP7H8P#/354582252_Screenshot_At_2019-03-27_13-58-14).
+The low-fidelity prototype can be accessed [here](https://invis.io/DAR87DP7H8P#/354582252_Screenshot_At_2019-03-27_13-58-14).
+
+And the high-fidelity prototype can be accessed [here](https://invis.io/F7RDH1SV3CD#/356080600_Prototype1)
